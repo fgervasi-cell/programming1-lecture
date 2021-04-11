@@ -1,0 +1,3 @@
+Anna ist ein Palindrom!
+Otto ist ein Palindrom!
+mnbvbnm ist ein Palindrom!
